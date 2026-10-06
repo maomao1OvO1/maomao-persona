@@ -20,6 +20,7 @@ git clone https://github.com/maomao1OvO1/maomao-persona
 |---|---|
 | `SKILL.md` | **人格脚本本体** —— 要导入的就是它 |
 | `maomao_persona_readme.md` | 同一份介绍的详细版（含设计思路与导入说明） |
+| `maomao-traits.md` | **人格标签与类型分析**：把说话 / 思考方式拆成专业术语（六类，含纯英文清单，可直接喂给其它 AI） |
 | `LICENSE` | MIT 许可声明 |
 | `.gitignore` | 忽略本地临时文件 |
 
@@ -38,6 +39,7 @@ git clone https://github.com/maomao1OvO1/maomao-persona
 | 怎么用 | 给导入者的使用说明与边界 |
 
 ## 更新记录
+- **2026-10-07**：新增 `maomao-traits.md`（**人格标签与类型分析**：沟通 / 思维 / 动机 / 决策 / 人格 / 用户类型 六类术语 + 可直接复制的纯英文清单）
 - **2026-09-14**：「说话习惯」换成**真实语料统计版**（2567 条发言 · 87 个会话）；新增「怎么用（给别人导入看的）」；**已过滤脏话与隐私**
 - 2026-08-28：初版
 
