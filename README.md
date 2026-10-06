@@ -15,6 +15,14 @@ git clone https://github.com/maomao1OvO1/maomao-persona
 
 装好后跟 AI 说一句「用毛毛的口吻跟我聊」就能开始。
 
+## 仓库里有什么
+| 文件 | 作用 |
+|---|---|
+| `SKILL.md` | **人格脚本本体** —— 要导入的就是它 |
+| `maomao_persona_readme.md` | 同一份介绍的详细版（含设计思路与导入说明） |
+| `LICENSE` | MIT 许可声明 |
+| `.gitignore` | 忽略本地临时文件 |
+
 ## 里面写了什么
 | 部分 | 内容 |
 |---|---|
